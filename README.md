@@ -1,5 +1,5 @@
 
-#Gökhan Çakmak
+# Gökhan Cakmak
 Full Stack Developer 
 
 **Skills:** JavaScript, React.js, Node.js, Express, MongoDB, SQL, HTML, CSS, SASS, , Redux, Git, GitHub
