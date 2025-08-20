@@ -29,10 +29,12 @@ CRUD-based inventory management with products, categories, brands, and companies
   - Developed full stack projects with a 3-person team  
   - Organized tasks on Jira in sprint format  
   - Worked on frontend & backend integration, Git collaboration, and API connections
-**EMLAK AG** – Internship (Umschulung)  
+    
+-**EMLAK AG** – Internship (Umschulung)  
 - Assisted with IT systems and networks  
 - Gained experience in IT support, configuration, and troubleshooting
-**UNO-Flüchtlingshilfe** – Internship (Umschulung)  
+  
+-**UNO-Flüchtlingshilfe** – Internship (Umschulung)  
 - Worked on IT-supported processes and data management
 
 ## 🔗 Connect with Me
