@@ -12,9 +12,11 @@ I am a **Full Stack Developer** with experience in building dynamic web applicat
 
 
 ## 🛠 Projects & Contributions
-- **Stock Management App (Full Stack)** – CRUD operations for products, categories, brands, and companies with role-based authentication.
-- **Social Media Dashboard** – Login/Register, Navbar, Drawer, API integrations, data visualization using react-tremor.
-- **E-Commerce Application** – Frontend & backend integration, product management, authentication, React Formik-Yup forms.
+**ZusammenFun** – Full Stack Event Web App  
+Social platform for creating, joining, and managing events, communities, and personal profiles. Designed to connect people digitally and enhance social interactions.
+- **Stock Management App (Full Stack)** – Full Stack Web Application  
+CRUD-based inventory management with products, categories, brands, and companies. Features a user-friendly dashboard with data visualization and JWT-based authentication with role-based access.
+
 
 
 ## 🏛 Academic Background
@@ -23,10 +25,15 @@ I am a **Full Stack Developer** with experience in building dynamic web applicat
 -
 
 ## 📚 Work & Internship Experience
-- **Full Stack Intern** – Clarusway, 3 months  
+ **Full Stack Intern** – Clarusway, 3 months  
   - Developed full stack projects with a 3-person team  
   - Organized tasks on Jira in sprint format  
   - Worked on frontend & backend integration, Git collaboration, and API connections
+**EMLAK AG** – Internship (Umschulung)  
+- Assisted with IT systems and networks  
+- Gained experience in IT support, configuration, and troubleshooting
+**UNO-Flüchtlingshilfe** – Internship (Umschulung)  
+- Worked on IT-supported processes and data management
 
 ## 🔗 Connect with Me
 - 💼 [LinkedIn](#)
