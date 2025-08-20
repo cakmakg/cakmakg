@@ -1,8 +1,8 @@
 
-# Gökhan Çakmak
+#Gökhan Çakmak
 Full Stack Developer 
 
-**Skills:** JavaScript, React.js, Node.js, Express, MongoDB, SQL, HTML, CSS, SASS, Python, OpenAI API, Redux, Git, GitHub
+**Skills:** JavaScript, React.js, Node.js, Express, MongoDB, SQL, HTML, CSS, SASS, , Redux, Git, GitHub
 
 I am a **Full Stack Developer** with experience in building dynamic web applications and automation tools. I combine analytical thinking and programming skills to develop efficient, scalable, and user-friendly solutions. Passionate about leveraging modern web technologies and AI to solve real-world problems.
 
