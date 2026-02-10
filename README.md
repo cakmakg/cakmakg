@@ -1,4 +1,4 @@
-# Hi there, I'm Gökhan Cakmak! 👋
+# I'm Gökhan Cakmak
 
 ### 🚀 Full Stack Developer | AI & RAG Architecture Enthusiast
 
