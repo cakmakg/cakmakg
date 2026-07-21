@@ -1,83 +1,103 @@
 <h1 align="center">Gökhan Cakmak</h1>
-<h3 align="center">AI Systems Engineer · Full-Stack Developer</h3>
+<h3 align="center">AI Systems Engineer · Full-Stack-Entwickler</h3>
 
 <p align="center">
-  Building <b>production-ready autonomous AI systems</b> — not prototypes.<br/>
-  Multi-agent architectures · LangGraph · n8n automation · AWS Bedrock · MCP
+  Ich entwickle <b>produktionsreife, autonome KI-Systeme</b> — keine Prototypen.<br/>
+  Multi-Agenten-Architekturen · LangGraph · n8n-Automatisierung · AWS Bedrock · MCP
 </p>
 
 <p align="center">
   <a href="https://gokhancakmak.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/g%C3%B6khan-cakmak/">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:gokhan.cakmak@web.de">✉️ Email</a>
+  <a href="mailto:gokhan.cakmak@web.de">✉️ E-Mail</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20%2F%20AI%20Solutions%20Engineer-brightgreen?style=flat-square" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Bonn%20%C2%B7%20K%C3%B6ln-or%20Remote-blue?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Offen%20f%C3%BCr-AI%20Engineer%20%2F%20AI%20Solutions%20Engineer-brightgreen?style=flat-square" alt="Offen für Anstellung" />
+  <img src="https://img.shields.io/badge/Bonn%20%C2%B7%20K%C3%B6ln-oder%20Remote-blue?style=flat-square" alt="Standort" />
 </p>
 
 ---
 
-I build **autonomous AI systems that automate real business processes** — production-grade, not proofs-of-concept. My focus is **multi-agent architectures**, **n8n automation pipelines**, and deep **LLM integration**.
+Ich entwickle **autonome KI-Systeme, die echte Geschäftsprozesse automatisieren** — produktionsreif, keine Proof-of-Concepts. Mein Fokus liegt auf **Multi-Agenten-Architekturen**, **n8n-Automatisierungspipelines** und tiefer **LLM-Integration**.
 
-Before tech, I ran my own company — so I think in **business value**, not just code. The systems I build solve real problems.
+Vor meiner Tech-Karriere habe ich ein eigenes Unternehmen geführt — deshalb denke ich nicht nur in Code, sondern in **Geschäftswert**. Die Systeme, die ich baue, lösen echte Probleme.
 
-🔭 **Currently:** building **AI Orchestra** (an 11-agent autonomous B2B pipeline) and n8n social-media automation workflows with human-in-the-loop approval via Telegram.
-
----
-
-## 🛠️ Tech Stack
-
-| Area | Technologies |
-| :--- | :--- |
-| **Generative AI** | `Claude API` · `AWS Bedrock` · `LangGraph` · `LangChain` · `RAG` · `HITL` |
-| **Automation** | `n8n` · `Model Context Protocol (MCP)` · `Webhook Design` |
-| **Backend** | `Node.js` · `Express` · `TypeScript` · `MongoDB` · `REST APIs` |
-| **Frontend** | `React` · `Next.js` · `TailwindCSS` |
-| **DevOps** | `Docker` · `CI/CD` · `Git` |
+🔭 **Aktuell:** Ich entwickle **AI Orchestra** (eine autonome B2B-Pipeline mit 11 Agenten) sowie n8n-Workflows zur Social-Media-Automatisierung mit Human-in-the-Loop-Freigabe über Telegram.
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Tech-Stack
 
-### 🎼 AI Orchestra — 11-Agent Autonomous System &nbsp;·&nbsp; [Case study](https://gokhancakmak.vercel.app/)
-Production-grade multi-agent system that **fully autonomously coordinates B2B content, research and email outreach**.
-- **Orchestration:** LangGraph coordinates 11 specialized agents end-to-end
-- **Human-in-the-Loop:** approval gates via Telegram before any external action
-- **Memory & Retrieval:** RAG over MongoDB Atlas Vector Search
+<div align="center">
+
+**🤖 Generative KI & Agenten**
+
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
+<img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS Bedrock" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/RAG-5A67D8?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/Human--in--the--Loop-4B5563?style=for-the-badge" alt="HITL" />
+
+**⚙️ Automatisierung**
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+<img src="https://img.shields.io/badge/Webhook--Design-2088FF?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhook Design" />
+
+**💻 Core Stack**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,tailwind&theme=dark" alt="Core Stack" />
+
+**🔧 DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vscode&theme=dark" alt="DevOps & Tools" />
+
+</div>
+
+---
+
+## 🌟 Ausgewählte Projekte
+
+### 🎼 AI Orchestra — Autonomes System mit 11 Agenten &nbsp;·&nbsp; [Fallstudie](https://gokhancakmak.vercel.app/)
+Produktionsreifes Multi-Agenten-System, das **B2B-Content, Research und E-Mail-Outreach vollständig autonom koordiniert**.
+- **Orchestrierung:** LangGraph steuert 11 spezialisierte Agenten end-to-end
+- **Human-in-the-Loop:** Freigabe-Gates über Telegram vor jeder externen Aktion
+- **Memory & Retrieval:** RAG über MongoDB Atlas Vector Search
 - **Stack:** LangGraph · Claude API · MongoDB Vector Search · Telegram · Node.js / TypeScript
 
-### ✈️ Reisegesucht — Full-Stack Travel Portal &nbsp;·&nbsp; [Code](https://github.com/cakmakg/reisegesucht-website)
-Production travel portal (App Router) with an MVC-style backend layer — built in a professional role.
-- **Custom JWT auth:** access + refresh tokens, httpOnly cookies, argon2 password hashing
-- **Affiliate integration** (travianet TBE2, travelsystem) + MongoDB catalog & favorites (Merkliste)
+### ✈️ Reisegesucht — Full-Stack-Reiseportal &nbsp;·&nbsp; [Code](https://github.com/cakmakg/reisegesucht-website)
+Produktives Reiseportal (App Router) mit MVC-artiger Backend-Schicht — im beruflichen Umfeld entwickelt.
+- **Custom-JWT-Auth:** Access- + Refresh-Tokens, httpOnly-Cookies, argon2-Passwort-Hashing
+- **Affiliate-Integration** (travianet TBE2, travelsystem) + MongoDB-Katalog & Merkliste
 - **Stack:** Next.js 16 · React 19 · TypeScript (strict) · Tailwind CSS v4 · shadcn/ui · Mongoose
 
-### 🤖 Agentic AI Experiments &nbsp;·&nbsp; [Code](https://github.com/cakmakg/AI-Matrix-Agent)
-Hands-on agentic systems exploring LLM orchestration, tool use and the Model Context Protocol (MCP).
-- TypeScript-first agent architectures with structured tool calling
-- Foundations for the multi-agent patterns used in AI Orchestra
+### 🤖 Agentic Starter — Domänenunabhängiges Agenten-Framework &nbsp;·&nbsp; [Code](https://github.com/cakmakg/agentic-starter)
+Ein minimaler, domänenunabhängiger Starter für agentische Systeme in ~20 Dateien.
+- **Hub-and-Spoke-Orchestrator** mit deterministischem Routing
+- **Human-in-the-Loop**-Freigaben + eine „MOAT"-Sicherheitsschicht
+- Live-Streaming der Antworten über **SSE** (Server-Sent Events)
 
 ---
 
-## 💼 Experience
+## 💼 Berufserfahrung
 
-| Role | Company | Period |
+| Rolle | Unternehmen | Zeitraum |
 | :--- | :--- | :--- |
-| Web Developer | Reisegesucht | Feb 2026 – Present |
+| Web Developer | Reisegesucht | Feb 2026 – heute |
 | IT Support Specialist | GIS GmbH | Nov 2025 – Feb 2026 |
 | Web Developer | Vidinli Software | Sep 2025 – Nov 2025 |
-| System Administrator | emlak-ag.de | Feb 2024 – Jun 2024 |
-| IT Support Specialist | UNHCR (UN Refugee Agency) | Sep 2023 – Oct 2023 |
+| Systemadministrator | emlak-ag.de | Feb 2024 – Jun 2024 |
+| IT Support Specialist | UNHCR (UN-Flüchtlingshilfe) | Sep 2023 – Okt 2023 |
 
 🎓 **Fachinformatiker – Anwendungsentwicklung** (FAW) &nbsp;·&nbsp; **Full-Stack Web Dev Bootcamp** (Clarusway)
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub-Statistiken
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cakmakg&show_icons=true&theme=tokyonight&hide_border=true" alt="Gökhan's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakmakg&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cakmakg&show_icons=true&theme=tokyonight&hide_border=true&locale=de" alt="GitHub-Statistiken von Gökhan" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakmakg&layout=compact&theme=tokyonight&hide_border=true&locale=de" alt="Meistgenutzte Sprachen" height="165" />
 </p>
