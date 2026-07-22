@@ -23,7 +23,7 @@ Ich entwickle **autonome KI-Systeme, die echte Geschäftsprozesse automatisieren
 
 Vor meiner Tech-Karriere habe ich ein eigenes Unternehmen geführt — deshalb denke ich nicht nur in Code, sondern in **Geschäftswert**. Die Systeme, die ich baue, lösen echte Probleme.
 
-🔭 **Aktuell:** Ich entwickle **AI Orchestra** (eine autonome B2B-Pipeline mit 11 Agenten) sowie n8n-Workflows zur Social-Media-Automatisierung mit Human-in-the-Loop-Freigabe über Telegram.
+🔭 **Aktuell:** Ich entwickle den **Autonomous SecOps Agent** (agentisches Security-Command-Center mit LangGraph & AWS) sowie **AI Orchestra**, eine autonome B2B-Pipeline mit 11 Agenten.
 
 ---
 
@@ -60,6 +60,13 @@ Vor meiner Tech-Karriere habe ich ein eigenes Unternehmen geführt — deshalb d
 
 ## 🌟 Ausgewählte Projekte
 
+### 🛡️ Autonomous SecOps Agent — Enterprise Security Command Center &nbsp;·&nbsp; [Code](https://github.com/cakmakg/Autonomous-secops-agent)
+Produktionsreifes B2B-SecOps-System: Express-API + **agentische LangGraph-Pipeline mit 7 Knoten**, die Cyber-Bedrohungen erkennt, kritische Fälle über ein Human-in-the-Loop-Gate leitet und automatisch AWS-WAF-IP-Blocking ausführt.
+- **Threat Detection:** AWS SageMaker (Random Cut Forest) Anomalie-Scoring + Enrichment via n8n (VirusTotal / AbuseIPDB / Shodan)
+- **Agentische Pipeline:** ThreatAnalyzer → InputGuardrail (Prompt-Injection-Schutz) → HITL-Gate (`interrupt()` + WebSocket-Alert) → MitigationStrategist → IncidentWriter → QACritic
+- **Enterprise-Grade:** Multi-Tenancy mit AES-256-GCM-Secret-Verschlüsselung, MCP-Tool-Server, JWT-Auth, MongoDB
+- **Stack:** TypeScript · LangGraph · Claude 3.5 (Sonnet + Haiku) · AWS SageMaker & WAF · Express · WebSocket · MongoDB
+
 ### 🎼 AI Orchestra — Autonomes System mit 11 Agenten &nbsp;·&nbsp; [Fallstudie](https://gokhancakmak.vercel.app/)
 Produktionsreifes Multi-Agenten-System, das **B2B-Content, Research und E-Mail-Outreach vollständig autonom koordiniert**.
 - **Orchestrierung:** LangGraph steuert 11 spezialisierte Agenten end-to-end
@@ -72,12 +79,6 @@ Produktives Reiseportal (App Router) mit MVC-artiger Backend-Schicht — im beru
 - **Custom-JWT-Auth:** Access- + Refresh-Tokens, httpOnly-Cookies, argon2-Passwort-Hashing
 - **Affiliate-Integration** (travianet TBE2, travelsystem) + MongoDB-Katalog & Merkliste
 - **Stack:** Next.js 16 · React 19 · TypeScript (strict) · Tailwind CSS v4 · shadcn/ui · Mongoose
-
-### 🤖 Agentic Starter — Domänenunabhängiges Agenten-Framework &nbsp;·&nbsp; [Code](https://github.com/cakmakg/agentic-starter)
-Ein minimaler, domänenunabhängiger Starter für agentische Systeme in ~20 Dateien.
-- **Hub-and-Spoke-Orchestrator** mit deterministischem Routing
-- **Human-in-the-Loop**-Freigaben + eine „MOAT"-Sicherheitsschicht
-- Live-Streaming der Antworten über **SSE** (Server-Sent Events)
 
 ---
 
